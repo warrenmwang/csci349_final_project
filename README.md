@@ -1,7 +1,7 @@
 # Data Mining Final Project
-Dataset: MyAnimeList Dataset
-Team: Warren Wang
-Objective: Be able to predict anime recommendations to new user based off of their previous watch history and what they highly and poorly.
+Dataset: MyAnimeList Dataset<br>
+Team: Warren Wang, Anushka Desai<br>
+Objective: Be able to generate new anime recommendations given a list of liked anime.<br>
 
 Data: https://www.kaggle.com/datasets/azathoth42/myanimelist?resource=download
 
