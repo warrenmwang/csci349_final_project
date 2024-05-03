@@ -15,3 +15,6 @@ conda create -n csci349final python=3.10.13
 conda activate csci349final
 pip install -r requirements.txt
 ```
+
+## Video Presentation
+[Video Link](https://www.youtube.com/watch?v=lPqjwQ3s3_U)
