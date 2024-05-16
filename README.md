@@ -1,6 +1,6 @@
 # Data Mining Final Project
 Dataset: MyAnimeList Dataset<br>
-Team: Warren Wang, Anushka Desai<br>
+Team: Warren Wang<br>
 Objective: Be able to generate new anime recommendations given a person's watched anime list.
 
 ## Data
